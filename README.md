@@ -1,2 +1,2 @@
 # multisig-wallet-truffle
-multisig-wallet truffle project with tests
+multisig-wallet truffle project with basic front-end
